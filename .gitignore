@@ -1,0 +1,8 @@
+node_modules/
+.env
+
+# runtime data (user IDs, linked accounts, premium keys, invite cache) - never commit
+tokens.json
+autoquest.json
+data/*
+!data/.gitkeep
